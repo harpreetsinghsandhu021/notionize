@@ -15,18 +15,18 @@ const MarketingPage = () => {
 
         <div className="">
           <Image
-            src={"/Sample 1.svg"}
+            src={"/Sally-4.png"}
             alt=""
-            width={100}
+            width={700}
             className=" absolute -right-32 top-10 w-[700px] h-auto bg-none"
-            height={100}
+            height={700}
           />
           <Image
-            src={"/Sample 3.svg"}
+            src={"/Saly-3.png"}
             alt=""
-            width={100}
-            className="absolute bottom-0  -left-40 w-[600px] h-auto bg-none"
-            height={100}
+            width={800}
+            className="absolute bottom-0  -left-40 w-[500px] h-auto bg-none"
+            height={800}
           />
           <ContainerScroll>
             <Image
@@ -74,53 +74,34 @@ const MarketingPage = () => {
       <div className="flex flex-col relative items-center  py-40 justify-center md:justify-start text-center gap-y-8 flex-1 ">
         <Heading />
         <Image
-          src={"/Sample 2.svg"}
+          src={"/Saly-7.png"}
           alt=""
-          width={100}
-          className="w-[250px] absolute left-0 top-0 h-auto bg-none"
-          height={100}
+          width={700}
+          className="w-[250px] absolute left-0 top-10 h-auto bg-none"
+          height={700}
         />
         <Image
-          src={"/Sample 4.svg"}
+          src={"/Saly-15.png"}
           alt=""
-          width={100}
-          className="w-[280px] absolute right-0 top-0 h-auto bg-none"
-          height={100}
+          width={700}
+          className="w-[280px] absolute right-36 top-100 h-auto bg-none"
+          height={700}
         />
+
         <Image
-          src={"/Sample 5.svg"}
+          src={"/Saly-22.png"}
           alt=""
-          width={100}
-          className="w-[280px] absolute right-50 top-0 h-auto bg-none"
-          height={100}
+          width={700}
+          className="w-[280px] absolute left-40 top-60 h-auto bg-none"
+          height={700}
         />
+
         <Image
-          src={"/Sample 6.svg"}
+          src={"/Saly-34.png"}
           alt=""
-          width={100}
-          className="w-[280px] absolute right-0 top-40 h-auto bg-none"
-          height={100}
-        />
-        <Image
-          src={"/Sample 7.svg"}
-          alt=""
-          width={100}
-          className="w-[280px] absolute left-0 top-50 h-auto bg-none"
-          height={100}
-        />
-        <Image
-          src={"/Sample 8.svg"}
-          alt=""
-          width={100}
-          className="w-[280px] absolute right-10 top-100 h-auto bg-none"
-          height={100}
-        />
-        <Image
-          src={"/Sample 9.svg"}
-          alt=""
-          width={100}
+          width={700}
           className="w-[280px] absolute -right-10 top-0 h-auto bg-none"
-          height={100}
+          height={700}
         />
       </div>
     </div>
