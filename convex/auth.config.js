@@ -1,7 +1,7 @@
 export default {
   providers: [
     {
-      domain: "https://intimate-piglet-61.clerk.accounts.dev",
+      domain: "https://wired-adder-62.clerk.accounts.dev",
       applicationID: "convex",
     },
   ],
