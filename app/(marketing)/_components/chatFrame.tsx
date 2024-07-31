@@ -32,13 +32,16 @@ const ChatFrame = () => {
       }
     `);
 
-    iframe.src = "http://localhost:3001"; // Replace with actual URL
+    iframe.src = "https://neuron-neuron-chatbot.vercel.app/"; // Replace with actual URL
     iframe.classList.add("chat-frame");
 
     iframe.onload = () => {
       setTimeout(() => {
         try {
-          iframe.contentWindow?.postMessage(3, "http://localhost:3001"); // Replace with actual URL
+          iframe.contentWindow?.postMessage(
+            3,
+            "https://neuron-neuron-chatbot.vercel.app/"
+          ); // Replace with actual URL
         } catch (err) {
           console.error("Error sending postMessage:", err);
         }
@@ -50,7 +53,10 @@ const ChatFrame = () => {
       const dimensions: Dimensions = JSON.parse(e.data);
       iframe.width = `${dimensions.width}`;
       iframe.height = `${dimensions.height}`;
-      iframe.contentWindow?.postMessage("3", "http://localhost:3001/"); // Replace with actual URL
+      iframe.contentWindow?.postMessage(
+        "3",
+        "https://neuron-neuron-chatbot.vercel.app//"
+      ); // Replace with actual URL
     };
 
     window.addEventListener("message", handleMessage);
