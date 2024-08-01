@@ -14,17 +14,12 @@ Notionize is an open-source project offering a powerful and customizable workspa
 
 Here are some screenshots of Neuron in action:
 
-![Screenshot 1](./apps/neuron-ai/public/screenshots/s1.png)
+![Screenshot 1](./public/screenshots/s1.png)
 
+![Screenshot 1](./public/screenshots/s2.png)
 
-![Screenshot 2](./apps/neuron-ai/public/screenshots/s2.png)
+![Screenshot 1](./public/screenshots/s3.png)
 
-![Screenshot 3](./apps/neuron-ai/public/screenshots/s3.png)
+![Screenshot 1](./public/screenshots/s4.png)
 
-<img src="./apps/neuron-ai/public/screenshots/s7.png" width="300" height="440">
-<img src="./apps/neuron-ai/public/screenshots/s8.png" width="300" height="440">
-
-
-![Screenshot 5](./apps/neuron-ai/public/screenshots/s6.png)
-_chat with your visitors in realtime_
-
+![Screenshot 1](./public/screenshots/s5.png)
