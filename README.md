@@ -12,7 +12,7 @@ Notionize is an open-source project offering a powerful and customizable workspa
 
 ## Screenshots
 
-Here are some screenshots of Neuron in action:
+Here are some screenshots of Notionize in action:
 
 ![Screenshot 1](./public/screenshots/s1.png)
 
